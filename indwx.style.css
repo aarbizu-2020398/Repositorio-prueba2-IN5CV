@@ -1,0 +1,87 @@
+
+html{
+    min-height: 100%;
+    position: relative;
+}
+
+
+body{
+    color: #b3f73e;
+    font-size: 30px;
+    font-family: "Mulish", sans-serif;
+    background-color: black;
+    background-image: url('assets/img/Kinal.jpeg');
+    background-size: cover;
+    margin: 0;
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0;
+    background-color: black;
+    padding-left: 45%;
+    padding-right: 46%;
+}
+
+
+nav{
+    background-color: rgba(0,0,0,1);
+}
+
+h1{
+    color: #d5baee(24, 2, 61, 1);
+    font-size: 25px;
+}
+
+table{
+    font-size: 55px;
+    border: black solid 4px;
+    padding: 0px 50px 0px 50px;
+    margin: 55px 35px 55px 0px;
+}
+
+caption{
+    border: black solid 4px;
+    padding: 5px;
+}
+
+
+
+ul{
+    list-style-type:none;
+    display: flex;
+}
+
+li{
+    margin: 0px 200px 0px 0px;
+}
+
+
+.table1{
+    color: #2b448feb;
+}
+
+.table2{
+    color:#f5acc8;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.8);
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.indexbutton{
+    color: #015055(255, 0, 89, 0.511);
+}
+
+.footer{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+
